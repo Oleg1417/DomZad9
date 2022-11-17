@@ -1,0 +1,15 @@
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\bin\Debug\net6.0\DomZad9.exe
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\bin\Debug\net6.0\DomZad9.deps.json
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\bin\Debug\net6.0\DomZad9.runtimeconfig.json
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\bin\Debug\net6.0\DomZad9.dll
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\bin\Debug\net6.0\DomZad9.pdb
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\obj\Debug\net6.0\DomZad9.csproj.AssemblyReference.cache
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\obj\Debug\net6.0\DomZad9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\obj\Debug\net6.0\DomZad9.AssemblyInfoInputs.cache
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\obj\Debug\net6.0\DomZad9.AssemblyInfo.cs
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\obj\Debug\net6.0\DomZad9.csproj.CoreCompileInputs.cache
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\obj\Debug\net6.0\DomZad9.dll
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\obj\Debug\net6.0\refint\DomZad9.dll
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\obj\Debug\net6.0\DomZad9.pdb
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\obj\Debug\net6.0\DomZad9.genruntimeconfig.cache
+C:\Users\Oleg1417\Desktop\C#DomZad9\DomZad9\obj\Debug\net6.0\ref\DomZad9.dll
